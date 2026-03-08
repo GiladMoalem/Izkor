@@ -10,7 +10,7 @@ headers = {
     "User-Agent": "Mozilla/5.0",
     "Accept": "application/json",
     "Cookie":  # EDIT THE COOKIES
-        "visid_incap_1068888=smzJnPfASxSjP4wS1b8eUXxYpGkAAAAAQUIPAAAAAACba8GrGXs9alnI4ibuB6bE; nlbi_1068888=5fu9YTnpZkcEsg+hT/Ry9AAAAACvWJWOFB396Ukm5ZIWWr7x; incap_ses_7213_1068888=/TnrD3RPiS6A+rdkzbkZZMX6rWkAAAAAyKKG5QiyXikkpr6fXuKquA=="
+        "PASTE_YOUR_COOKIE_HERE"
 }
 
 
