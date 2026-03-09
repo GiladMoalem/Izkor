@@ -102,6 +102,7 @@ def main():
         fallen = get_fallen(cemetery)
         for one_fallen in fallen:
             one_fallen["cemetery"] = cemetery['name']
+            one_fallen["link"] = f'https://www.izkor.gov.il/{one_fallen["personId"]}'
 
         all_fallen.extend(fallen)
 
